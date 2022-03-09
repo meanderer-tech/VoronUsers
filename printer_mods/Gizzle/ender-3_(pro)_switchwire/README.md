@@ -37,9 +37,12 @@ This is my interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is t
   - Belts: approximately 4m are enough
   - Igus chains (10x11mm)
   - M3 and M5 Nut6 hammernuts/drop in nuts or whatever you like
+  - 1 x M3x5 5mm heat set nut for one corner of electronic box
+  - 5 x M3x6mm self-tapping micro screws for SKR Mini e3
+  - 4 x M2.3x5mm self-tapping micro screws for Raspberry pi zero
   - M3 and M5 screws: Look up the Afterburner assembly guide and my CAD model. There you will see which screws you need.
-  - SKR E3 Mini or SKR V1.3/V1.4 (only advanced version)
-  - Raspberry Pi
+  - SKR E3 Mini (electronics box provision) or SKR V1.3/V1.4 (only advanced version)
+  - Raspberry Pi (electronic box has provisions for a zero), or any SBC that can successfuly run Klipper
   - some wire
   
 ## Some more pictures
